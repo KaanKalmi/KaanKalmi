@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaanKalmi
 
-- 👀 I’m interested in coding websites, apps and tools.
+- 👀 I’m interested in coding and designing websites, apps and tools
 
 - 🌱 I’m currently learning Frontend Design and Development
 
