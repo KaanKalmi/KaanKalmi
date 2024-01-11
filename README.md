@@ -1,8 +1,14 @@
-- 👋 Hi, I’m Kaan.
-- 👀 I’m interested in developing websites and web applications.
-- 🌱 I’m currently learning Frontend Design and Development.
-- 📫 You can reach me here if you are interested!
-  
-     - Linkedin: https://www.linkedin.com/in/kaan-kalmioglu-6a9bab26b/
-     - Gmail: kalmioglu.k@gmail.com
-     - Discord: kbuster15
+<h1 align="center">Hi 👋, I'm Kaan</h1>
+<h3 align="center">A passionate Front end developer from the Netherlands</h3>
+
+- 🌱 I’m currently learning **JavaScript, CSS, React, UI/UX designing**
+
+- 📫 How to reach me **kalmioglu.k@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="[https://linkedin.com/in/kaan kalmioglu](https://www.linkedin.com/in/kaan-kalmioglu-6a9bab26b/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaan kalmioglu" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
