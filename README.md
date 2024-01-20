@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Kaan from the Netherland<br><br>- 📚 I'm currently learning Front end Development and Designing<br>- ⚡ In my free time I play games, read manga, code and go to the gym!</p>
+<p align="left">I'm Kaan from the Netherlands<br><br>- 📚 I'm currently learning Front end Development and Designing<br>- ⚡ In my free time I play games, read manga, code and go to the gym!</p>
 
 ###
 
