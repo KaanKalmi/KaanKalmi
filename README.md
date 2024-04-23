@@ -43,4 +43,4 @@
 
 ###
 
-> The contribution chart below does not work properly, my streak has been broken since february.
+> The contribution chart below does not work properly.
