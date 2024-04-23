@@ -42,3 +42,5 @@
 </div>
 
 ###
+
+> The contribution chart below does not work, my streak has been broken since january.
