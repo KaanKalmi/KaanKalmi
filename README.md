@@ -10,19 +10,7 @@
 
 ###
 
-<h3 align="left">I'm Kaan and I'm currently learnign the following: </h3>
-
-###
-
-<ul align="left">
-  <li>NodeJS</li>
-  <li>EJS</li>
-  <li>Javascript</li>
-</ul>
-
-###
-
-<h3 align="left">Languages I knows</h3>
+<h3 align="left">I'm Kaan and I'm currently learning the following: </h3>
 
 ###
 
@@ -32,6 +20,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo">
   <img width="12">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo">
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"  height="40" alt="NodeJS logo">
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"  height="40" alt="ExpressJS logo">
+          
+          
 </div>
 
 ###
